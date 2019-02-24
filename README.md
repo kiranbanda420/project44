@@ -23,7 +23,3 @@ For a curated list of samples in this repo and elsewhere, see the
 
 For a curated list of samples in this repo and elsewhere, see the
 [index](INDEX.md).
-## Index4
-
-For a curated list of samples in this repo and elsewhere, see the
-[index](INDEX.md).
